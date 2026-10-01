@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/narendradodke/Dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/narendradodke/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -15,16 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/narendradodke/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
-## Linked List
+## Array
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/narendradodke/Dsa/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/narendradodke/Dsa/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/narendradodke/Dsa/tree/master/0002-add-two-numbers) |
+| [0001-two-sum](https://github.com/narendradodke/Dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
