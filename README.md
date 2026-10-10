@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/narendradodke/Dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/narendradodke/Dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/narendradodke/Dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/narendradodke/Dsa/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/narendradodke/Dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/narendradodke/Dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/narendradodke/Dsa/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/narendradodke/Dsa/tree/master/0068-text-justification) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/narendradodke/Dsa/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/narendradodke/Dsa/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/narendradodke/Dsa/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/narendradodke/Dsa/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
