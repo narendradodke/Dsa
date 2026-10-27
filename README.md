@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/narendradodke/Dsa/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/narendradodke/Dsa/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/narendradodke/Dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/narendradodke/Dsa/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/narendradodke/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/narendradodke/Dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/narendradodke/Dsa/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/narendradodke/Dsa/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
 | ------- |
